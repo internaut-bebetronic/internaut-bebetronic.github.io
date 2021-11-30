@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fdcf09e.chunk.css",
-    "main.js": "/static/js/main.9e75332c.chunk.js",
-    "main.js.map": "/static/js/main.9e75332c.chunk.js.map",
+    "main.css": "/static/css/main.58c033b8.chunk.css",
+    "main.js": "/static/js/main.d7d26784.chunk.js",
+    "main.js.map": "/static/js/main.d7d26784.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f648d921.js",
     "runtime-main.js.map": "/static/js/runtime-main.f648d921.js.map",
     "static/js/2.8cef0fa8.chunk.js": "/static/js/2.8cef0fa8.chunk.js",
@@ -10,15 +10,17 @@
     "static/js/3.bd27b26c.chunk.js": "/static/js/3.bd27b26c.chunk.js",
     "static/js/3.bd27b26c.chunk.js.map": "/static/js/3.bd27b26c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4fdcf09e.chunk.css.map": "/static/css/main.4fdcf09e.chunk.css.map",
+    "static/css/main.58c033b8.chunk.css.map": "/static/css/main.58c033b8.chunk.css.map",
     "static/js/2.8cef0fa8.chunk.js.LICENSE.txt": "/static/js/2.8cef0fa8.chunk.js.LICENSE.txt",
+    "static/media/idea.68046915.svg": "/static/media/idea.68046915.svg",
     "static/media/logo.336aea31.png": "/static/media/logo.336aea31.png",
-    "static/media/App.module.css": "/static/media/main_background.f1c83d60.jpg"
+    "static/media/App.module.css": "/static/media/main_background.f1c83d60.jpg",
+    "static/media/paypal.3b2d6074.svg": "/static/media/paypal.3b2d6074.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f648d921.js",
     "static/js/2.8cef0fa8.chunk.js",
-    "static/css/main.4fdcf09e.chunk.css",
-    "static/js/main.9e75332c.chunk.js"
+    "static/css/main.58c033b8.chunk.css",
+    "static/js/main.d7d26784.chunk.js"
   ]
 }
